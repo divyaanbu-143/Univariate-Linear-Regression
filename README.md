@@ -1,5 +1,5 @@
 # Implementation of Univariate Linear Regression
-# Date : 
+# Date : 11.05.2024
 ## Aim:
 To implement univariate Linear Regression to fit a straight line using least squares.
 ## Equipment’s required:
@@ -40,10 +40,8 @@ plt.show()
 
 ```
 ## Output
-![Screenshot 2024-05-24 161113](https://github.com/divyaanbu-143/Univariate-Linear-Regression/assets/155506447/7ed7c742-e355-4ea9-8bf3-8c5206d0020d)
-![Screenshot 2024-05-24 161128](https://github.com/divyaanbu-143/Univariate-Linear-Regression/assets/155506447/6b4a4766-cfbf-4e54-9fc2-fdec204b1335)
-
-
+![Screenshot 2024-05-26 133240](https://github.com/divyaanbu-143/Univariate-Linear-Regression/assets/155506447/9837188a-419f-4d7e-ac28-46ba242bcb65)
+![Screenshot 2024-05-26 133258](https://github.com/divyaanbu-143/Univariate-Linear-Regression/assets/155506447/6865d704-4d14-4620-b019-e35842e58278)
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
